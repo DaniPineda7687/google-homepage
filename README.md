@@ -1,0 +1,1 @@
+With this project I will demonstrate my skills in css and html. Like the use of relative and absolute units, basic flexbox, colors, text styles and other abilities seen in the module.
